@@ -1,0 +1,12 @@
+{
+  "name": "prototipo-retos-4",
+  "version": "1.0.0",
+  "description": "servidor multijugador para el prototipo virtual",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "KaleidoLab",
+  "dependencies": {
+    "networked-aframe": "^0.9.1"
+  }
+}
